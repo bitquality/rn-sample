@@ -1,0 +1,37 @@
+{
+  "name": "MyNav",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "ios": "react-native run-ios",
+    "android": "react-native run-android"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "native-base": "^2.11.0",
+    "react": "16.6.3",
+    "react-native": "0.58.4",
+    "react-native-azure-adal": "^1.0.9",
+    "react-native-azurenotificationhub": "^0.7.0",
+    "react-native-config": "^0.11.7",
+    "react-native-gesture-handler": "^1.0.15",
+    "react-native-linear-gradient": "^2.5.3",
+    "react-native-vector-icons": "^6.2.0",
+    "react-navigation": "^3.1.5",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "24.1.0",
+    "jest": "24.1.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

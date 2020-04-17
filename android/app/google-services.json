@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "681904001729",
+    "firebase_url": "https://mstravelsmartappdev.firebaseio.com",
+    "project_id": "mstravelsmartappdev",
+    "storage_bucket": "mstravelsmartappdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681904001729:android:3e13d76c79b42e32",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681904001729-9kiusv9a5pffmfdhjogp1fb9i7ptq0je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWNxr0DkFNIwIjn6NBioAFFbYU7K7UT3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681904001729-9kiusv9a5pffmfdhjogp1fb9i7ptq0je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681904001729:android:bea6dd3a7eeb8fec",
+        "android_client_info": {
+          "package_name": "com.mstravelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681904001729-9kiusv9a5pffmfdhjogp1fb9i7ptq0je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWNxr0DkFNIwIjn6NBioAFFbYU7K7UT3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681904001729-9kiusv9a5pffmfdhjogp1fb9i7ptq0je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
