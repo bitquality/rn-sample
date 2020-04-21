@@ -19,7 +19,7 @@ This sample powerful starter project bootstraps development of your mobile appli
 
 <span align="center">
 
-  ![](src\assets\appsample.jpeg)
+  ![](src/assets/appsample.jpeg)
 
 </span>
 
